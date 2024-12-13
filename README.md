@@ -81,14 +81,13 @@ Enter the URL of the webpage to scrape:
 https://example.com/page-with-table
 Choose the columns to omit, if any:
 
-css
-Copy code
+```css
 Enter columns to omit (comma-separated): Column1, Column3
 Choose the location to save the resulting Excel file.
 
 A success message confirms the data has been saved.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Troubleshooting
